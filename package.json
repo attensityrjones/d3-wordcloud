@@ -22,8 +22,7 @@
   },
   "dependencies": {
     "d3-dispatch": "^1.0.6",
-    "d3-scale": "^3.2.1",
-    "np": "^6.2.3"
+    "d3-scale": "^3.2.1"
   },
   "devDependencies": {
     "rollup": "0.27",
