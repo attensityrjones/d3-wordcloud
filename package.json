@@ -1,7 +1,7 @@
 {
   "name": "d3-wordcloud",
-  "version": "0.2.0",
-  "description": "{DESCRIPTION}",
+  "version": "0.2.1",
+  "description": "d3-cloud updated to v5 of d3",
   "keywords": [
     "d3",
     "d3-module"
