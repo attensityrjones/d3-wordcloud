@@ -6,7 +6,7 @@
     "d3",
     "d3-module"
   ],
-  "license": "Apache License 2.0",
+  "license": "BSD-3-Clause",
   "main": "dist/d3-wordcloud.js",
   "jsnext:main": "index",
   "homepage": "https://github.com/attensityrjones/d3-wordcloud",
